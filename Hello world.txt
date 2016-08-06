@@ -1,5 +1,6 @@
-alert("Hello world")
-alert("Hello everybody")
-alert("Hello")
-alert("Hello my dear friend")
-alert(Glad to see you")
+alert("Hello world;")
+alert("Hello everybody;")
+alert("Hello;")
+alert("Hello my dear friend;")
+alert("Glad to see you;")
+
